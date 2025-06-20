@@ -5,3 +5,4 @@
 Датасет знаходиться за посиланням: https://drive.google.com/file/d/1As2j1LV_CvYAFWtaI0BWRB4v-7KAwu7A/view?usp=sharing--
 
 Результати аналізу та побудовані візуалізації знаходяться в файлі - UK_airport_review.pbix
+![{1F7CADFF-6A45-4892-9800-ACF829B20634}](https://github.com/user-attachments/assets/e8eabf6a-4ef5-4be3-8056-f53b54ed7b8c)
